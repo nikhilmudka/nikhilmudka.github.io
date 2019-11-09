@@ -406,7 +406,7 @@ header {
   height: 100%;
   position: relative;
   background-repeat: no-repeat;
-  background-position: inherit;
+  background-position: center;
   background-attachment: fixed
 }
 
